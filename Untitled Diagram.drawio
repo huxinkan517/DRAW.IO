@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T13:07:47.517Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="UMSQKESDhroEm15sXVT0" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T13:12:07.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="XjHZTqe8xmflijGLOQIP" version="15.9.1" type="github">
   <diagram id="Eg2X4exUauVk93Lk7n2n" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,17 +31,29 @@
         <mxCell id="UhHhqisBvOqcBHwaHRAv-6" value="described as" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=15;" vertex="1" parent="1">
           <mxGeometry x="480" y="420" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="UhHhqisBvOqcBHwaHRAv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="1" source="UhHhqisBvOqcBHwaHRAv-7" target="UhHhqisBvOqcBHwaHRAv-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UhHhqisBvOqcBHwaHRAv-7" value="怪才Team" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="475" y="240" width="70" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="UhHhqisBvOqcBHwaHRAv-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="asPSAtxc_pzzXM39m6-X-1" target="UhHhqisBvOqcBHwaHRAv-7">
+        <mxCell id="UhHhqisBvOqcBHwaHRAv-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="asPSAtxc_pzzXM39m6-X-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="400" as="sourcePoint" />
-            <mxPoint x="440" y="350" as="targetPoint" />
+            <mxPoint x="430" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="490" y="300" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UhHhqisBvOqcBHwaHRAv-10" value="Contain" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;" vertex="1" parent="1">
-          <mxGeometry x="420" y="300" width="60" height="80" as="geometry" />
+        <mxCell id="UhHhqisBvOqcBHwaHRAv-10" value="Create the unique" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-45;" vertex="1" parent="1">
+          <mxGeometry x="414" y="290" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UhHhqisBvOqcBHwaHRAv-11" value="问题：工期紧张、&lt;br&gt;资金匮乏" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="650" y="200" width="90" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="UhHhqisBvOqcBHwaHRAv-15" value="overcome" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="220" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
