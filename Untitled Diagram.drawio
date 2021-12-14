@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-14T13:31:16.042Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="GFCfgji5p2ueiElCqMqB" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-14T14:10:26.552Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36 Edg/96.0.1054.53" etag="pgovhomzDHxGErLGkSUu" version="15.9.1" type="github">
   <diagram id="Eg2X4exUauVk93Lk7n2n" name="Page-1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,18 @@
         </mxCell>
         <mxCell id="UhHhqisBvOqcBHwaHRAv-24" value="&lt;b&gt;凭直觉行事的实干家&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="180" y="70" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UhHhqisBvOqcBHwaHRAv-25" value="&lt;b&gt;创新&lt;br&gt;高风险项目&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UhHhqisBvOqcBHwaHRAv-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;entryX=0.643;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="asPSAtxc_pzzXM39m6-X-1" target="UhHhqisBvOqcBHwaHRAv-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="370" as="sourcePoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UhHhqisBvOqcBHwaHRAv-28" value="&lt;b&gt;hallmark&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=65;" vertex="1" parent="1">
+          <mxGeometry x="360" y="265" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
