@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-24T22:29:50.490Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="zgfxxGagrR9VdYLxpRNn" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-24T22:32:14.556Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.52" etag="bu41Pl1tDRnMm1AHkIiM" version="20.2.7" type="github">
   <diagram id="TM0484O-qBPvriXI69gO" name="Page-1">
     <mxGraphModel dx="948" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
         <mxCell id="-_a42Cl9vrLYscxdyRdV-8" value="任务情境驱动" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="337" y="410" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-_a42Cl9vrLYscxdyRdV-9" value="&lt;span style=&quot;font-size: 12px; font-weight: 700;&quot;&gt;制图综合知识库&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="-_a42Cl9vrLYscxdyRdV-9" value="&lt;span style=&quot;font-size: 12px; font-weight: 700;&quot;&gt;智能制图综合系统&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="548" y="344" width="152" height="60" as="geometry" />
         </mxCell>
       </root>
