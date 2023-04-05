@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-05T03:24:46.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="JmitkZw-0RRVQJIv2Q40" version="21.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-05T07:25:01.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="QTBt7H5xYrxgIkY3E-In" version="21.0.8" type="github">
   <diagram name="第 1 页" id="fLHI8q8jEvmg70LVfnAi">
     <mxGraphModel dx="1042" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,10 +14,10 @@
           <mxGeometry x="160" y="50" width="515" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tMlSYUvqDikguycu4a48-5" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;第一章：知识图谱&amp;nbsp; 北极航道 东北航道 适航性评估&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="170" y="370" width="430" height="30" as="geometry" />
+          <mxGeometry x="202.5" y="340" width="430" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tMlSYUvqDikguycu4a48-7" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;引言：介绍北极航道与知识图谱的相关背景信息，发展历程；北极航道目前&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="170" y="110" width="430" height="40" as="geometry" />
+        <mxCell id="tMlSYUvqDikguycu4a48-7" value="&lt;b style=&quot;font-size: 19px;&quot;&gt;引言：1介绍北极航道与知识图谱的相关背景信息，发展历程；2介绍北极航道目前研究的局限性，知识图谱引入后的改善-&lt;/b&gt;知识图谱作为联系现实世界中实体、概念的大规模语义网络，有望更好地管理、组织、有机的结合北极航道研究中涉及到的专家先验知识、各个影响因子实体、遥感影像及相关地学知识、数据模型等;&lt;br&gt;&lt;b&gt;3概括性得介绍文章的内容与结构框架&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="170" y="110" width="430" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
